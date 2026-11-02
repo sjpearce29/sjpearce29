@@ -1,24 +1,16 @@
-<p align="center">
-  <img src="assets/banner.png" alt="Sam Pearce. Four pages on the list: About, Lego wishlist, Golf, and a small game. None of them built yet." width="100%">
-</p>
+# Sam Pearce
 
-The list is the product. [portfolio](https://github.com/sjpearce29/portfolio) is one Next.js page: four parts of the site, and the other work beside it.
+### Projects
 
-| | Page | What it will be |
+| | Project | What it is |
 | --- | --- | --- |
-| 01 | About | A CV, written in my own words |
-| 02 | Lego wishlist | Sets I want, not a catalogue of everything I own |
-| 03 | Golf | A small app for the game |
-| 04 | A small game | Snake, or a platformer |
-
-### Other work
-
-| | |
-| --- | --- |
-| [**spotify-widget**](https://github.com/sjpearce29/spotify-widget) | A Spotify control for while I'm working. The repository is a title and a sentence. |
-| [**database-sandbox**](https://github.com/sjpearce29/database-sandbox) | A place to try SQL before it becomes part of something else. Empty. |
-| [**python-sandbox**](https://github.com/sjpearce29/python-sandbox) | The same idea, for Python. Empty. |
-| [**llm-learning**](https://github.com/sjpearce29/llm-learning) | A public log of learning language models. The first program sends a prompt and prints the reply. |
+| 01 | [**llm-learning**](https://github.com/sjpearce29/llm-learning) | A public log of learning language models. The first program sends a prompt and prints the reply. |
+| 02 | [**lego-wishlist**](https://github.com/sjpearce29/lego-wishlist) | Sets I want, not a catalogue of everything I own. Nothing is listed yet. |
+| 03 | [**golf**](https://github.com/sjpearce29/golf) | A small app for the game. Not started. |
+| 04 | [**snake**](https://github.com/sjpearce29/snake) | A small game of snake. Not started. |
+| 05 | [**spotify-widget**](https://github.com/sjpearce29/spotify-widget) | A Spotify control for while I'm working. The repository is a title and a sentence. |
+| 06 | [**database-sandbox**](https://github.com/sjpearce29/database-sandbox) | A place to try SQL before it becomes part of something else. Empty. |
+| 07 | [**python-sandbox**](https://github.com/sjpearce29/python-sandbox) | The same idea, for Python. Empty. |
 
 ### Languages
 
@@ -27,13 +19,4 @@ The list is the product. [portfolio](https://github.com/sjpearce29/portfolio) is
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-121418?style=flat-square&logo=javascript&logoColor=e6b325">
   <img alt="SQL" src="https://img.shields.io/badge/SQL-121418?style=flat-square&logoColor=e6b325">
   <img alt="Python" src="https://img.shields.io/badge/Python-121418?style=flat-square&logo=python&logoColor=e6b325">
-</p>
-
-### What the site uses
-
-<p>
-  <img alt="Next.js 15" src="https://img.shields.io/badge/Next.js_15-121418?style=flat-square&logo=nextdotjs&logoColor=e6b325">
-  <img alt="React 19" src="https://img.shields.io/badge/React_19-121418?style=flat-square&logo=react&logoColor=e6b325">
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-121418?style=flat-square&logo=typescript&logoColor=e6b325">
-  <img alt="Tailwind CSS 4" src="https://img.shields.io/badge/Tailwind_CSS_4-121418?style=flat-square&logo=tailwindcss&logoColor=e6b325">
 </p>
