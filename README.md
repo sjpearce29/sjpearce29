@@ -2,7 +2,7 @@
   <img src="assets/banner.png" alt="Sam Pearce. Four pages on the list: About, Lego wishlist, Golf, and a small game. None of them built yet." width="100%">
 </p>
 
-The list is the product. [portfolio](https://github.com/sjpearce29/portfolio) is a Next.js app whose home page is that list and nothing else.
+The list is the product. [portfolio](https://github.com/sjpearce29/portfolio) is one Next.js page: four parts of the site, the other work beside it, and the languages those use.
 
 | | Page | What it will be |
 | --- | --- | --- |
@@ -11,7 +11,7 @@ The list is the product. [portfolio](https://github.com/sjpearce29/portfolio) is
 | 03 | Golf | A small app for the game |
 | 04 | A small game | Snake, or a platformer |
 
-### Alongside the site
+### Other work
 
 | | |
 | --- | --- |
@@ -19,6 +19,15 @@ The list is the product. [portfolio](https://github.com/sjpearce29/portfolio) is
 | [**database-sandbox**](https://github.com/sjpearce29/database-sandbox) | A place to try SQL before it becomes part of something else. Empty. |
 | [**python-sandbox**](https://github.com/sjpearce29/python-sandbox) | The same idea, for Python. Empty. |
 | [**llm-learning**](https://github.com/sjpearce29/llm-learning) | A public log of learning language models. The first program sends a prompt and prints the reply. |
+
+### Languages
+
+| Language | Where it is |
+| --- | --- |
+| TypeScript | The portfolio. In use. |
+| JavaScript | [llm-learning](https://github.com/sjpearce29/llm-learning). In use. |
+| SQL | [database-sandbox](https://github.com/sjpearce29/database-sandbox). Not started. |
+| Python | [python-sandbox](https://github.com/sjpearce29/python-sandbox). Not started. |
 
 ### What the site uses
 
