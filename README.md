@@ -2,7 +2,7 @@
   <img src="assets/banner.png" alt="Sam Pearce. Four pages on the list: About, Lego wishlist, Golf, and a small game. None of them built yet." width="100%">
 </p>
 
-The list is the product. [portfolio](https://github.com/sjpearce29/portfolio) is one Next.js page: four parts of the site, the other work beside it, and the languages those use.
+The list is the product. [portfolio](https://github.com/sjpearce29/portfolio) is one Next.js page: four parts of the site, and the other work beside it.
 
 | | Page | What it will be |
 | --- | --- | --- |
@@ -22,12 +22,12 @@ The list is the product. [portfolio](https://github.com/sjpearce29/portfolio) is
 
 ### Languages
 
-| Language | Where it is |
-| --- | --- |
-| TypeScript | The portfolio. In use. |
-| JavaScript | [llm-learning](https://github.com/sjpearce29/llm-learning). In use. |
-| SQL | [database-sandbox](https://github.com/sjpearce29/database-sandbox). Not started. |
-| Python | [python-sandbox](https://github.com/sjpearce29/python-sandbox). Not started. |
+<p>
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-121418?style=flat-square&logo=typescript&logoColor=e6b325">
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-121418?style=flat-square&logo=javascript&logoColor=e6b325">
+  <img alt="SQL" src="https://img.shields.io/badge/SQL-121418?style=flat-square&logoColor=e6b325">
+  <img alt="Python" src="https://img.shields.io/badge/Python-121418?style=flat-square&logo=python&logoColor=e6b325">
+</p>
 
 ### What the site uses
 
