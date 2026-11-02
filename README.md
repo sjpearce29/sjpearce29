@@ -1,29 +1,31 @@
+<div align="center">
+
 # Sam Pearce
 
-### Projects
+**Software engineer · learning in public · building small things**
 
-[<img alt="llm-learning" src="https://img.shields.io/badge/llm--learning-121418?style=flat-square&logoColor=e6b325">](https://github.com/sjpearce29/llm-learning)<br>
-A public log of learning language models. The first program sends a prompt and prints the reply.
+</div>
 
-[<img alt="lego-wishlist" src="https://img.shields.io/badge/lego--wishlist-121418?style=flat-square&logoColor=e6b325">](https://github.com/sjpearce29/lego-wishlist)<br>
-Sets I want, not a catalogue of everything I own. Nothing is listed yet.
+Working through language models in the open. This page lists what I'm making, and how far each one has got.
 
-[<img alt="golf" src="https://img.shields.io/badge/golf-121418?style=flat-square&logoColor=e6b325">](https://github.com/sjpearce29/golf)<br>
-A small app for the game. Not started.
+## Projects
 
-[<img alt="snake" src="https://img.shields.io/badge/snake-121418?style=flat-square&logoColor=e6b325">](https://github.com/sjpearce29/snake)<br>
-A small game of snake. Not started.
+| Project | What it is | State |
+| :-- | :-- | :--: |
+| [**llm-learning**](https://github.com/sjpearce29/llm-learning) | A public log of learning language models. The first program sends a prompt and prints the reply. | Started |
+| [**spotify-widget**](https://github.com/sjpearce29/spotify-widget) | A Spotify control for while I'm working. | A title and a sentence |
+| [**lego-wishlist**](https://github.com/sjpearce29/lego-wishlist) | Sets I want, not a catalogue of everything I own. | Nothing listed yet |
+| [**golf**](https://github.com/sjpearce29/golf) | A small app for the game. | Not started |
+| [**snake**](https://github.com/sjpearce29/snake) | A small game of snake. | Not started |
 
-[<img alt="spotify-widget" src="https://img.shields.io/badge/spotify--widget-121418?style=flat-square&logoColor=e6b325">](https://github.com/sjpearce29/spotify-widget)<br>
-A Spotify control for while I'm working. The repository is a title and a sentence.
+## Sandboxes
 
-[<img alt="database-sandbox" src="https://img.shields.io/badge/database--sandbox-121418?style=flat-square&logoColor=e6b325">](https://github.com/sjpearce29/database-sandbox)<br>
-A place to try SQL before it becomes part of something else. Empty.
+| Sandbox | Purpose | State |
+| :-- | :-- | :--: |
+| [**database-sandbox**](https://github.com/sjpearce29/database-sandbox) | A place to try SQL before it becomes part of something else. | Empty |
+| [**python-sandbox**](https://github.com/sjpearce29/python-sandbox) | The same idea, for Python. | Empty |
 
-[<img alt="python-sandbox" src="https://img.shields.io/badge/python--sandbox-121418?style=flat-square&logoColor=e6b325">](https://github.com/sjpearce29/python-sandbox)<br>
-The same idea, for Python. Empty.
-
-### Languages
+## Languages
 
 <p>
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-121418?style=flat-square&logo=typescript&logoColor=e6b325">
